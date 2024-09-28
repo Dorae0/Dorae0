@@ -8,6 +8,9 @@
 |**Game Tools**|![Studying](https://img.shields.io/badge/Studying-BAF3E6.svg?&style=for-the-badge)　![Unity](https://img.shields.io/badge/unity-FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=black)![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?&style=for-the-badge&logo=unrealengine&logoColor=white)|
 |**Tools**|![Using](https://img.shields.io/badge/Using-FF8282.svg?&style=for-the-badge)　![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)|
 
+### PS
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=77ehgus)](https://solved.ac/77ehgus/)<br>
 
 
 <!--
