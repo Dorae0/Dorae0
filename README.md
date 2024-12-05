@@ -10,7 +10,7 @@
 
 ### PS
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=77ehgus)](https://solved.ac/77ehgus/)<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=77ehgus)](https://solved.ac/77ehgus/) <img src="http://mazandi.herokuapp.com/api?handle=77ehgus&theme=dark"/><br>
 
 <img width="862" alt="스크린샷 2024-09-30 오전 10 07 33" src="https://github.com/user-attachments/assets/d386555e-8f8f-4b3a-a329-7ef4fab01276">
 
