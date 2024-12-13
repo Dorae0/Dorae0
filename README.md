@@ -18,8 +18,8 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/Dorae0"
-  width="600"
-  height="300"
+  width="862"
+  height="431"
 />
 </a>
 
